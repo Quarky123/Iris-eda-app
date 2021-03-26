@@ -1,4 +1,7 @@
 # heroku create iris-eda-app123
+# git push origin main
+# git push heroku main
+# take note that its not master
 
 import streamlit as st
 
